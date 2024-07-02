@@ -1,0 +1,12 @@
+conda create -n tensorflow python==3.7.6
+conda activate tensorflow
+conda install tensorflow==2.0.0
+pip install keras==2.3.1
+conda install sypder==5.1.5
+pip install pandas==0.25.3
+pip install scikit-learn
+pip install imutils
+pip install matplotlib
+pip install seaborn
+pip install opencv-python
+pip install h5py==2.10.0
